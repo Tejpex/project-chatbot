@@ -4,4 +4,4 @@ This is a math robot, that delivered endless math problems to the user. It was c
 
 ## View it live
 
-https://mathewthemathbot.netlify.app/
+https://math-bot.netlify.app/
